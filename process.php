@@ -1,6 +1,6 @@
 <?php
 
-//cennect to database
+//connect to database
 $conn = mysqli_connect('localhost', 'root', '', 'ajaxtest');
 
  echo 'Processing...';
